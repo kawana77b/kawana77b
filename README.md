@@ -10,4 +10,4 @@ Nice to meet you.
 
 ### My favorite or specialty technology
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,go" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,nodejs,go,vscode,visualstudio" />
