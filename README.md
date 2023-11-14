@@ -8,6 +8,6 @@ Nice to meet you.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawana77b&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-### My favorite or specialty technology
+### My favorite or specialty technologies
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,typescript,nodejs,go,vscode,visualstudio" />
